@@ -14,9 +14,7 @@
     
     // NULL datatype
 
-    var_dump(array("red", "white", "blue", "purple")) // Array
+    var_dump(array("red", "white", "blue", "purple")); // Array
     echo "<br />";
-
     
-
 ?>
