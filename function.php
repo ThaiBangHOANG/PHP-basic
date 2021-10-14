@@ -42,7 +42,3 @@
 
     $result = divide(144, 12);
     d($result);
-
-    
-
-?>
