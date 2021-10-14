@@ -7,7 +7,8 @@
     }
 
     echo "<br />";
-
+    echo "-------------------------------------";
+    echo "<br />";
 
     // while loop
 
@@ -18,6 +19,9 @@
         $x++;
     }
 
+    echo "<br />";
+    echo "-------------------------------------";
+    echo "<br />";
 
     // dowhile loop
     $x = 10;
@@ -26,6 +30,10 @@
         echo "<br />";
         $x++;    
     } while ($x < 9);
+
+    echo "<br />";
+    echo "-------------------------------------";
+    echo "<br />";
 
     // foreach loop
     $colors = ['red', 'orange', 'purple', 'blue', 'green', 'turquoise', 'pink', 'cyan'];
